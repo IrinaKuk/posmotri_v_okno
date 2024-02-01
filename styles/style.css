@@ -214,7 +214,7 @@ ol {
 
 .title {
   height: 210px;
-  color: #fff; 
+  color: #fff;
   font-family: "Oswald", "Helvetica", sans-serif;
   font-size: 75px;
   font-weight: 700;
@@ -240,7 +240,7 @@ ol {
   scrollbar-width: thin;
   scrollbar-color: #000 rgba(255, 0, 0, 0);
 }
- 
+
 .content__list::-webkit-scrollbar {
   width: 10px;
 }
@@ -280,7 +280,7 @@ ol {
   outline: 1px solid #FFF;
 }
 
-.content__card-link_current { 
+.content__card-link_current {
   background-color: #545050;
 }
 
